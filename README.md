@@ -1,1 +1,4 @@
-# demo03-Eddie
+.DS_Store
+*.log
+node_modules/
+.vscode/
